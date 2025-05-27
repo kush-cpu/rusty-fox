@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/f648a085-4b3f-4fcb-9f54-e7d5249dc735
 
 Still working on it, so will share updates here as I progress more :)
 
-Foxtrot was generated using the [Bevy New 2D](https://github.com/TheBevyFlock/bevy_new_2d) template.
+Rusty-Fox was generated using the [Bevy New 2D](https://github.com/TheBevyFlock/bevy_new_2d) template.
 Check out its [documentation](https://github.com/TheBevyFlock/bevy_new_2d/blob/main/README.md) to understand the basis employed in this project.
 
 
